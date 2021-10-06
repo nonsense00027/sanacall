@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "972496157885",
+    "project_id": "sanacall-2b3ca",
+    "storage_bucket": "sanacall-2b3ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972496157885:android:733b46280368f7bd758bd4",
+        "android_client_info": {
+          "package_name": "com.sanacall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972496157885-namloh14ejue3n93eb22gkqf1af96jj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanacall",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "972496157885-btb20fpd80c9s0j9ent7rb25hqdhiea7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA32I3l_wLvauqIbpkw404aM9NUumeWvJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972496157885-btb20fpd80c9s0j9ent7rb25hqdhiea7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
